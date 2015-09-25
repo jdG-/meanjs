@@ -1,0 +1,42 @@
+<section class="row" data-ng-controller="AuthenticationController">
+	<div class="page-header">
+		<h3 class="col-md-12 text-center" translate>Sign up</h3>
+	</div>
+	<br>
+	<div class="alert alert-danger text-center" role="alert" data-ng-show="error">
+		<strong data-ng-bind="error" class="text-danger"></strong>
+	</div>
+	<div class="col-xs-offset-2 col-xs-8 col-md-offset-5 col-md-2">
+		<form name="userForm" data-ng-submit="signup()" class="signin form-horizontal" novalidate autocomplete="off">
+			<fieldset>
+				<div class="form-group">
+					<label for="firstName" translate>First Name</label>
+					<input type="text" id="firstName" name="firstName" class="form-control"
+						   data-ng-model="credentials.firstName" placeholder=" {{ 'First Name' | translate }}" ng-required="true">
+				</div>
+				<div class="form-group">
+					<label for="lastName" translate>Last Name</label>
+					<input type="text" id="lastName" name="lastName" class="form-control"
+						   data-ng-model="credentials.lastName" placeholder="{{ 'Last Name' | translate }}" ng-required="true">
+				</div>
+				<div class="form-group">
+					<label for="email" translate>Email</label>
+					<input type="email" id="email" name="email" class="form-control" data-ng-model="credentials.email" placeholder=" {{ 'Email' | translate }}" data-ng-pattern="/^[-a-z0-9~!$%^&*_=+}{\'?]+(\.[-a-z0-9~!$%^&*_=+}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|arpa|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|pro|travel|mobi|[a-z][a-z])|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,5})?$/i" ng-required="true">
+				</div>
+				<div class="form-group">
+					<label for="username" translate>Username</label>
+					<input type="text" id="username" name="username" class="form-control" data-ng-model="credentials.username" placeholder="{{ 'Username' | translate }}" ng-required="true">
+				</div>
+				<div class="form-group">
+					<label for="password" translate>Password</label>
+					<input type="password" id="password" name="password" class="form-control" data-ng-model="credentials.password" ng-minlength="7" placeholder="{{ 'Password' | translate }}" ng-required="true">
+				</div>
+				<div class="text-center form-group">
+					<button type="submit" class="btn btn-large btn-primary" translate>Sign up</button>&nbsp; {{ 'or'
+					| translate }}&nbsp;
+					<a href="/#!/signin" class="show-signup" translate>Sign in</a>
+				</div>
+			</fieldset>
+		</form>
+	</div>
+</section>

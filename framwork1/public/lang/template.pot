@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: ./public/modules/users/controllers/authentication.client.controller.js:22
+msgid "A first name is required"
+msgstr ""
+
+#: ./public/modules/users/controllers/authentication.client.controller.js:24
+msgid "A last name is required"
+msgstr ""
+
+#: ./public/modules/users/views/userupdate.client.view.html:36
+msgid "Admin"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:13
+msgid "All"
+msgstr ""
+
+#: ./public/modules/users/controllers/authentication.client.controller.js:28
+#: ./public/modules/users/controllers/authentication.client.controller.js:46
+msgid "An username is required"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password-invalid.client.view.html:3
+msgid "Ask for a new password reset"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:30
+msgid "Assigned to"
+msgstr ""
+
+#: ./public/modules/tickets/views/view-ticket.client.view.html:10
+#: ./public/modules/tickets/views/view-ticket.client.view.html:16
+msgid "Assigned to :"
+msgstr ""
+
+#: ./public/modules/forum/views/list-forum-categories.client.view.html:10
+#: ./public/modules/forum/views/view-forum-category.client.view.html:19
+#: ./public/modules/forum/views/view-forum-category.client.view.html:33
+#: ./public/modules/forum/views/view-forum-category.client.view.html:57
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:18
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:33
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:49
+#: ./public/modules/tickets/views/view-ticket.client.view.html:31
+#: ./public/modules/tickets/views/view-ticket.client.view.html:44
+msgid "by"
+msgstr ""
+
+#: ./public/modules/core/views/header.client.view.html:45
+msgid "Change Password"
+msgstr ""
+
+#: ./public/modules/users/views/settings/change-password.client.view.html:3
+msgid "Change your password"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:11
+#: ./public/modules/tickets/views/view-ticket.client.view.html:20
+msgid "Close :"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:14
+msgid "Closed"
+msgstr ""
+
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:60
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:64
+msgid "Comment"
+msgstr ""
+
+#: ./public/modules/core/views/home.client.view.html:9
+msgid "Contact us"
+msgstr ""
+
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:80
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:82
+#: ./public/modules/tickets/views/create-ticket.client.view.html:15
+#: ./public/modules/tickets/views/create-ticket.client.view.html:17
+#: ./public/modules/tickets/views/view-ticket.client.view.html:55
+#: ./public/modules/tickets/views/view-ticket.client.view.html:57
+msgid "Content"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password-success.client.view.html:3
+msgid "Continue to home page"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:34
+msgid "create one"
+msgstr ""
+
+#: ./public/modules/users/views/userlist.client.view.html:10
+msgid "Created on"
+msgstr ""
+
+#: ./public/modules/users/views/settings/change-password.client.view.html:16
+#: ./public/modules/users/views/settings/change-password.client.view.html:17
+msgid "Current Password"
+msgstr ""
+
+#: ./public/modules/forum/views/edit-forum-category.client.view.html:4
+msgid "Edit Forum category"
+msgstr ""
+
+#: ./public/modules/groups/views/edit-group.client.view.html:3
+msgid "Edit Group"
+msgstr ""
+
+#: ./public/modules/core/views/header.client.view.html:42
+msgid "Edit Profile"
+msgstr ""
+
+#: ./public/modules/users/views/userupdate.client.view.html:3
+msgid "Edit User"
+msgstr ""
+
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:3
+msgid "Edit your profile"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:17
+#: ./public/modules/users/views/authentication/signup.client.view.html:23
+#: ./public/modules/users/views/authentication/signup.client.view.html:24
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:24
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:25
+msgid "Email"
+msgstr ""
+
+#: ./public/modules/users/controllers/authentication.client.controller.js:26
+msgid "Email address is not valid"
+msgstr ""
+
+#: ./public/modules/users/views/password/forgot-password.client.view.html:3
+msgid "Enter your account username."
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:5
+msgid "Error on sending message"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signup.client.view.html:13
+#: ./public/modules/users/views/authentication/signup.client.view.html:15
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:16
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:17
+#: ./public/modules/users/views/userupdate.client.view.html:18
+msgid "First Name"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:26
+msgid "Forgot your password?"
+msgstr ""
+
+#: ./public/modules/forum/views/list-forum-categories.client.view.html:3
+msgid "Forum categories"
+msgstr ""
+
+#: ./public/modules/users/views/userupdate.client.view.html:30
+msgid "Group"
+msgstr ""
+
+#: ./public/modules/groups/views/list-groups.client.view.html:3
+msgid "Groups"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signup.client.view.html:18
+#: ./public/modules/users/views/authentication/signup.client.view.html:20
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:20
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:21
+#: ./public/modules/users/views/userupdate.client.view.html:24
+msgid "Last Name"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:23
+msgid "Message"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:11
+#: ./public/modules/forum/views/create-forum-category.client.view.html:10
+#: ./public/modules/forum/views/create-forum-category.client.view.html:12
+#: ./public/modules/forum/views/create-forum-thread.client.view.html:11
+#: ./public/modules/forum/views/create-forum-thread.client.view.html:9
+#: ./public/modules/forum/views/edit-forum-category.client.view.html:10
+#: ./public/modules/forum/views/edit-forum-category.client.view.html:12
+#: ./public/modules/groups/views/create-group.client.view.html:11
+#: ./public/modules/groups/views/create-group.client.view.html:9
+#: ./public/modules/groups/views/edit-group.client.view.html:12
+#: ./public/modules/groups/views/edit-group.client.view.html:9
+#: ./public/modules/tickets/views/create-ticket.client.view.html:11
+#: ./public/modules/tickets/views/create-ticket.client.view.html:9
+msgid "Name"
+msgstr ""
+
+#: ./public/modules/forum/views/create-forum-category.client.view.html:4
+msgid "New Forum category"
+msgstr ""
+
+#: ./public/modules/groups/views/create-group.client.view.html:3
+msgid "New Group"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password.client.view.html:7
+#: ./public/modules/users/views/password/reset-password.client.view.html:8
+#: ./public/modules/users/views/settings/change-password.client.view.html:20
+#: ./public/modules/users/views/settings/change-password.client.view.html:21
+msgid "New Password"
+msgstr ""
+
+#: ./public/modules/forum/views/create-forum-thread.client.view.html:3
+msgid "New thread"
+msgstr ""
+
+#: ./public/modules/tickets/views/create-ticket.client.view.html:3
+msgid "New Ticket"
+msgstr ""
+
+#: ./public/modules/forum/views/list-forum-categories.client.view.html:18
+msgid "No Forum categories yet"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:34
+msgid "No Tickets yet, why don't you"
+msgstr ""
+
+#: ./public/modules/forum/views/create-forum-category.client.view.html:33
+#: ./public/modules/forum/views/edit-forum-category.client.view.html:27
+msgid "Only for admins"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:15
+msgid "Open"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:21
+#: ./public/modules/users/views/authentication/signup.client.view.html:35
+msgid "or"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:17
+#: ./public/modules/users/views/authentication/signin.client.view.html:18
+#: ./public/modules/users/views/authentication/signup.client.view.html:31
+#: ./public/modules/users/views/authentication/signup.client.view.html:32
+msgid "Password"
+msgstr ""
+
+#: ./public/modules/users/views/settings/change-password.client.view.html:10
+msgid "Password Changed Successfully"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password-invalid.client.view.html:2
+msgid "Password reset is invalid"
+msgstr ""
+
+#: ./public/modules/users/controllers/authentication.client.controller.js:30
+#: ./public/modules/users/controllers/authentication.client.controller.js:48
+msgid "Password should be longer"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password-success.client.view.html:2
+msgid "Password successfully reset"
+msgstr ""
+
+#: ./public/modules/forum/views/list-forum-categories.client.view.html:8
+#: ./public/modules/forum/views/view-forum-category.client.view.html:17
+#: ./public/modules/forum/views/view-forum-category.client.view.html:31
+#: ./public/modules/forum/views/view-forum-category.client.view.html:55
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:16
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:31
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:47
+#: ./public/modules/groups/views/list-groups.client.view.html:8
+#: ./public/modules/groups/views/view-group.client.view.html:15
+#: ./public/modules/tickets/views/view-ticket.client.view.html:29
+#: ./public/modules/tickets/views/view-ticket.client.view.html:42
+msgid "Posted on"
+msgstr ""
+
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:10
+msgid "Profile Saved Successfully"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password.client.view.html:2
+msgid "Reset your password"
+msgstr ""
+
+#: ./public/modules/users/views/password/forgot-password.client.view.html:2
+msgid "Restore your password"
+msgstr ""
+
+#: ./public/modules/forum/views/create-forum-category.client.view.html:22
+#: ./public/modules/forum/views/create-forum-thread.client.view.html:16
+#: ./public/modules/groups/views/create-group.client.view.html:16
+msgid "Save"
+msgstr ""
+
+#: ./public/modules/users/views/settings/change-password.client.view.html:28
+msgid "Save Password"
+msgstr ""
+
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:32
+msgid "Save Profile"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:8
+msgid "Search"
+msgstr ""
+
+#: ./public/modules/tickets/views/list-tickets.client.view.html:7
+msgid "Search :"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:29
+msgid "Send"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:3
+msgid "Send us an email"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:21
+#: ./public/modules/users/views/authentication/signin.client.view.html:3
+#: ./public/modules/users/views/authentication/signup.client.view.html:37
+msgid "Sign in"
+msgstr ""
+
+#: ./public/modules/core/views/header.client.view.html:32
+msgid "Sign In"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:23
+#: ./public/modules/users/views/authentication/signup.client.view.html:3
+#: ./public/modules/users/views/authentication/signup.client.view.html:35
+msgid "Sign up"
+msgstr ""
+
+#: ./public/modules/core/views/header.client.view.html:28
+msgid "Sign Up"
+msgstr ""
+
+#: ./public/modules/core/views/header.client.view.html:49
+msgid "Signout"
+msgstr ""
+
+#: ./public/modules/forum/views/view-forum-category.client.view.html:26
+msgid "sub-categories"
+msgstr ""
+
+#: ./public/modules/forum/views/create-forum-category.client.view.html:16
+msgid "Sub-category"
+msgstr ""
+
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:68
+#: ./public/modules/forum/views/view-forum-thread.client.view.html:86
+#: ./public/modules/tickets/views/create-ticket.client.view.html:21
+#: ./public/modules/tickets/views/view-ticket.client.view.html:61
+#: ./public/modules/users/views/password/forgot-password.client.view.html:11
+msgid "Submit"
+msgstr ""
+
+#: ./public/modules/forum/views/view-forum-category.client.view.html:43
+msgid "threads"
+msgstr ""
+
+#: ./public/modules/forum/views/edit-forum-category.client.view.html:16
+#: ./public/modules/groups/views/edit-group.client.view.html:16
+#: ./public/modules/users/views/userupdate.client.view.html:41
+msgid "Update"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password.client.view.html:15
+msgid "Update Password"
+msgstr ""
+
+#: ./public/modules/users/views/userupdate.client.view.html:12
+msgid "User Name"
+msgstr ""
+
+#: ./public/modules/users/views/authentication/signin.client.view.html:13
+#: ./public/modules/users/views/authentication/signin.client.view.html:14
+#: ./public/modules/users/views/authentication/signup.client.view.html:27
+#: ./public/modules/users/views/authentication/signup.client.view.html:28
+#: ./public/modules/users/views/password/forgot-password.client.view.html:8
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:28
+#: ./public/modules/users/views/settings/edit-profile.client.view.html:29
+msgid "Username"
+msgstr ""
+
+#: ./public/modules/users/views/password/reset-password.client.view.html:11
+#: ./public/modules/users/views/password/reset-password.client.view.html:12
+#: ./public/modules/users/views/settings/change-password.client.view.html:24
+#: ./public/modules/users/views/settings/change-password.client.view.html:25
+msgid "Verify Password"
+msgstr ""
+
+#: ./public/modules/core/views/contact.client.view.html:6
+msgid "Your message has been sent"
+msgstr ""

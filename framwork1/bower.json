@@ -1,0 +1,23 @@
+{
+  "name": "framework1",
+  "version": "0.0.1",
+  "description": "Intra for 42",
+  "dependencies": {
+    "angular": "~1.4",
+    "angular-animate": "~1.4",
+    "angular-bootstrap": "~0.12.0",
+    "angular-cookies": "~1.4",
+    "angular-gettext": "~2.1.0",
+    "angular-mocks": "~1.4",
+    "angular-resource": "~1.4",
+    "angular-sanitize": "~1.4",
+    "angular-touch": "~1.4",
+    "angular-ui-router": "~0.2.11",
+    "angular-ui-utils": "~0.1.1",
+    "bootstrap": "~3",
+    "flag-icon-css": "~0.8.2"
+  },
+    "resolutions": {
+      "angular": "~1.4"
+  }
+}
